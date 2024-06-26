@@ -7,7 +7,7 @@ I'm Kevin, a passionate Full-Stack Web Developer with expertise in JavaScript, R
 
 🔧 Technologies & Tools:
 - Frontend: JavaScript, React, HTML/CSS
-- Backend: Node.js, Django, PHP
+- Backend: Node.js, PHP
 - Databases: MongoDB, MySQL, PostgreSQL
 - Tools: Git, Docker, AWS
 
